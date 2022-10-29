@@ -1,0 +1,2 @@
+- JavaScript Syntax: Functions - Sleep Debt Calculator - codecademy.com
+- JavaScript training
